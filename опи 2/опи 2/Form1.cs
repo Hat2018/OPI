@@ -14,10 +14,23 @@ namespace опи_2
 {
     public partial class Form1 : Form
     {
+        private static Form1 instance;
+        private static int maxWindows = 5;
+        public static int countWindows = 0;
         public Form1()
         {
             InitializeComponent();
         }
+        public static Form1 getInstance()
+        {
+            if (countWindows < maxWindows)
+            {
+                instance = new Form1();
+                countWindows++;
+            }
+            return instance;
+        }
+
         string Rusgl = "аоиёеэыуюяАОИЁЕЭЫУЮЯ",
                Russog = "цкнгшщзхфвпрлджчсмтбйЦКНГШЩЗХФВПРЛДЖЧСМТБЙ",
                Enggl = "aeiouAEIOU",
