@@ -1,0 +1,13 @@
+C:\Users\ПК\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\ПК\Desktop\server\server\bin\Debug\server.exe
+C:\Users\ПК\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\ПК\Desktop\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\server\server\obj\Debug\server.exe
+C:\Users\ПК\Desktop\server\server\obj\Debug\server.pdb
+D:\client-server\server\server\bin\Debug\server.exe.config
+D:\client-server\server\server\bin\Debug\server.exe
+D:\client-server\server\server\bin\Debug\server.pdb
+D:\client-server\server\server\obj\Debug\server.csprojAssemblyReference.cache
+D:\client-server\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\client-server\server\server\obj\Debug\server.exe
+D:\client-server\server\server\obj\Debug\server.pdb

@@ -1,0 +1,14 @@
+C:\Users\ПК\Desktop\client\client\bin\Debug\client.exe.config
+C:\Users\ПК\Desktop\client\client\bin\Debug\client.exe
+C:\Users\ПК\Desktop\client\client\bin\Debug\client.pdb
+C:\Users\ПК\Desktop\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\client\client\obj\Debug\client.exe
+C:\Users\ПК\Desktop\client\client\obj\Debug\client.pdb
+D:\client-server\client\client\bin\Debug\client.exe.config
+D:\client-server\client\client\bin\Debug\client.exe
+D:\client-server\client\client\bin\Debug\client.pdb
+D:\client-server\client\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\client-server\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\client-server\client\client\obj\Debug\client.exe
+D:\client-server\client\client\obj\Debug\client.pdb
