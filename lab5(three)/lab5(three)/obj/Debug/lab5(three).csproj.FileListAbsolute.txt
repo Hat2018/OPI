@@ -1,0 +1,11 @@
+D:\lab5(three)\lab5(three)\obj\Debug\lab5(three).csprojAssemblyReference.cache
+D:\lab5(three)\lab5(three)\obj\Debug\lab5_three_.Form1.resources
+D:\lab5(three)\lab5(three)\obj\Debug\lab5_three_.Form2.resources
+D:\lab5(three)\lab5(three)\obj\Debug\lab5_three_.Properties.Resources.resources
+D:\lab5(three)\lab5(three)\obj\Debug\lab5(three).csproj.GenerateResource.cache
+D:\lab5(three)\lab5(three)\obj\Debug\lab5(three).csproj.CoreCompileInputs.cache
+D:\lab5(three)\lab5(three)\bin\Debug\lab5(three).exe.config
+D:\lab5(three)\lab5(three)\bin\Debug\lab5(three).exe
+D:\lab5(three)\lab5(three)\bin\Debug\lab5(three).pdb
+D:\lab5(three)\lab5(three)\obj\Debug\lab5(three).exe
+D:\lab5(three)\lab5(three)\obj\Debug\lab5(three).pdb
