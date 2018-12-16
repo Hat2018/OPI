@@ -1,0 +1,43 @@
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи 2.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи_2.Form1.resources
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи_2.Properties.Resources.resources
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи 2.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи 2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\опи 2\опи 2\bin\Debug\опи 2.exe.config
+C:\Users\ПК\Desktop\опи 2\опи 2\bin\Debug\опи 2.exe
+C:\Users\ПК\Desktop\опи 2\опи 2\bin\Debug\опи 2.pdb
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи 2.exe
+C:\Users\ПК\Desktop\опи 2\опи 2\obj\Debug\опи 2.pdb
+D:\опи 2\опи 2\obj\Debug\опи 2.csprojAssemblyReference.cache
+D:\опи 2\опи 2\obj\Debug\опи_2.Form1.resources
+D:\опи 2\опи 2\obj\Debug\опи_2.Form2.resources
+D:\опи 2\опи 2\obj\Debug\опи_2.Properties.Resources.resources
+D:\опи 2\опи 2\obj\Debug\опи 2.csproj.GenerateResource.cache
+D:\опи 2\опи 2\obj\Debug\опи 2.csproj.CoreCompileInputs.cache
+D:\опи 2\опи 2\obj\Debug\опи 2.exe
+D:\опи 2\опи 2\obj\Debug\опи 2.pdb
+D:\опи 2\опи 2\bin\Debug\опи 2.exe.config
+D:\опи 2\опи 2\bin\Debug\опи 2.exe
+D:\опи 2\опи 2\bin\Debug\опи 2.pdb
+D:\опи 2 — копия (2)\опи 2\bin\Debug\опи 2.exe.config
+D:\опи 2 — копия (2)\опи 2\bin\Debug\опи 2.exe
+D:\опи 2 — копия (2)\опи 2\bin\Debug\опи 2.pdb
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи 2.csprojAssemblyReference.cache
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи_2.Form1.resources
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи_2.Form2.resources
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи_2.Properties.Resources.resources
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи 2.csproj.GenerateResource.cache
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи 2.csproj.CoreCompileInputs.cache
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи 2.exe
+D:\опи 2 — копия (2)\опи 2\obj\Debug\опи 2.pdb
+D:\опи 7\опи 2\obj\Debug\опи 2.csprojAssemblyReference.cache
+D:\опи 7\опи 2\obj\Debug\опи_2.Form1.resources
+D:\опи 7\опи 2\obj\Debug\опи_2.Form2.resources
+D:\опи 7\опи 2\obj\Debug\опи_2.Properties.Resources.resources
+D:\опи 7\опи 2\obj\Debug\опи 2.csproj.GenerateResource.cache
+D:\опи 7\опи 2\obj\Debug\опи 2.csproj.CoreCompileInputs.cache
+D:\опи 7\опи 2\obj\Debug\опи 2.exe
+D:\опи 7\опи 2\obj\Debug\опи 2.pdb
+D:\опи 7\опи 2\bin\Debug\опи 2.exe.config
+D:\опи 7\опи 2\bin\Debug\опи 2.exe
+D:\опи 7\опи 2\bin\Debug\опи 2.pdb
