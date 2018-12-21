@@ -1,0 +1,60 @@
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\bin\Debug\lab5_new2.exe.config
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\bin\Debug\lab5_new2.exe
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\bin\Debug\lab5_new2.pdb
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.Form1.resources
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.exe
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new2\lab5_new2\obj\Debug\lab5_new2.pdb
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\bin\Debug\lab5_new2.exe.config
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\bin\Debug\lab5_new2.exe
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\bin\Debug\lab5_new2.pdb
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.Form1.resources
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.exe
+C:\Users\Nastya\Desktop\Основы ПИ\lab5\lab5_new222\lab5_new2\obj\Debug\lab5_new2.pdb
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csprojResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.Form1.resources
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csproj.GenerateResource.Cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.exe
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.pdb
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.exe.config
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.exe
+C:\Users\Nastya\Desktop\Основы ПИ\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.pdb
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.exe.config
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.exe
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.pdb
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csprojAssemblyReference.cache
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.Form1.resources
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.Properties.Resources.resources
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csproj.GenerateResource.cache
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csproj.CoreCompileInputs.cache
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.exe
+D:\C#\2_5454219015465468683\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.pdb
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.exe.config
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.exe
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\bin\Debug\lab5_new2.pdb
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.Form1.resources
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.Properties.Resources.resources
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.exe
+C:\Users\ПК\Desktop\lab8\lab8_Prototype\lab5_new2\obj\Debug\lab5_new2.pdb
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\bin\Debug\lab5_new2.exe.config
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\bin\Debug\lab5_new2.exe
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\bin\Debug\lab5_new2.pdb
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.Form1.resources
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.Properties.Resources.resources
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.exe
+C:\Users\ПК\Desktop\lab8(002)\lab5_new2\obj\Debug\lab5_new2.pdb
